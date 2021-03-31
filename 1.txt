@@ -1,1 +1,1 @@
-I'll create a merge conflict!
+No, pls no merge conflict
